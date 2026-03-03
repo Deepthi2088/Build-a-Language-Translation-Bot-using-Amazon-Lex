@@ -1,2 +1,2 @@
-<h1>#LexiTranslate – Language Translation Bot using Amazon Lex>/h1>
-<h3>LexiTranslate is a conversational AI chatbot built using Amazon Lex that enables real-time language translation. The bot understands user input through natural language processing and translates text or speech into the desired target language.<br> It provides fast, accurate, and user-friendly multilingual communication support for global users.</h3>
+<h1>#LexiTranslate – Language Translation Bot using Amazon Lex</h1>
+<h5>LexiTranslate is a conversational AI chatbot built using Amazon Lex that enables real-time language translation. The bot understands user input through natural language processing and translates text or speech into the desired target language.<br> It provides fast, accurate, and user-friendly multilingual communication support for global users.</h5>
